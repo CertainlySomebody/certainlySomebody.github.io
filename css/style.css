@@ -1,0 +1,13 @@
+
+#hello_div {
+    font-family:'roboto';
+    font-weight:bold;
+    text-align:center;
+    padding:15px;
+    font-size:2rem;
+    border:1px solid #000000;
+    margin:5rem 10rem;
+    background-color:#dedede;
+    box-shadow:0 0 10px 0;
+    border-radius:10px;
+}
